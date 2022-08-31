@@ -17,7 +17,7 @@ MH-Z19B Infrared Carbon Dioxide Monitor Sensor CO2 Detection Sensor Module (CO2 
 
 |
 
-Hardware Spec
+Sensor Spec
 
 .. code::
 
