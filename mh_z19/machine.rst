@@ -1,6 +1,3 @@
-mh_z19 Experiment
-===================
-
 Experiement Environment
 -------------------------
 
