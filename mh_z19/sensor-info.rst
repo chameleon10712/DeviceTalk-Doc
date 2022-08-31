@@ -7,6 +7,8 @@ MH-Z19B Infrared Carbon Dioxide Monitor Sensor CO2 Detection Sensor Module (CO2 
 
 - `MH-Z19 GitHub <https://github.com/WifWaf/MH-Z19/blob/master/README.md>`_
 
+- `Raspberry Pi Sensor Libraries - mh-z19 <https://pypi.org/project/mh-z19/>`_
+
 |
 
 .. raw:: html
