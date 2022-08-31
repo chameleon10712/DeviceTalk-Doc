@@ -8,7 +8,7 @@ MH-Z19B CO2 二氧化碳感測器
 
 |
 
-hardware spec
+Hardware Spec
 
 .. code::
 
