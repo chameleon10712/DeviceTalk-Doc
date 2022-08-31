@@ -41,7 +41,7 @@ Hardware Spec
 |
 
 
-Layout
+Cabling (佈線)
 
 |
 
