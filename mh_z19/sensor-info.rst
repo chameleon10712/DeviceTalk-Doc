@@ -7,6 +7,12 @@ MH-Z19B Infrared Carbon Dioxide Monitor Sensor CO2 Detection Sensor Module (CO2 
 
 |
 
+.. raw:: html
+
+  <img src="https://www.winsen-sensor.com/d/propic/MH-Z19B.jpg" alt="" width="300" height="300">
+
+|
+
 Hardware Spec
 
 .. code::
