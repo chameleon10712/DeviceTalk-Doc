@@ -8,12 +8,22 @@ DeviceTalk Documentation
   - `HackMD 文件連結 <https://hackmd.io/@Eric-Pwg/SJWlETzj5/https%3A%2F%2Fhackmd.io%2F%40Eric-Pwg%2FB15oVAaO9>`_
 
 
-Sensor
+|
 
-- MH-Z19
+.. list-table:: Sensors
+   :widths: 25 25 50
+   :header-rows: 1
 
-  - CO2 sensor
+   * - Type
+     - 
+     - Library
+   * - Temperature and Humidity Sensor
+     - 溫濕度感測器
+     - DHT11, DHT22
+   * - CO2 Detection Sensor
+     - CO2 感測器
+     - MH-Z19
 
-
+|
 
 
