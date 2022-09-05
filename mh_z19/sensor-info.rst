@@ -93,7 +93,7 @@ Import module and call read()
   {'co2': 477}
   >>> 
 
-|
+
 
 readall()
 
