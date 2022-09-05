@@ -2,7 +2,7 @@ Sensors
 ==========
 
 
-DHT11 temperature and humidity sensor
+DHT11 Temperature and Humidity Sensor
 
 - `DHT-sensor-library | GitHub <https://github.com/adafruit/DHT-sensor-library>`_
   
