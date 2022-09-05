@@ -1,18 +1,19 @@
 Sensors
 ==========
 
-|
+.. list-table:: List
+   :widths: 25 25 50
+   :header-rows: 1
 
-- Temperature and Humidity Sensor (溫濕度感測器)
-
-  - DHT11, DHT22
-
-|
-
-- CO2 Detection Sensor (CO2 二氧化碳感測器)
-
-  - MH-Z19B
-
+   * - Type
+     - 
+     - Library
+   * - Temperature and Humidity Sensor
+     - 溫濕度感測器
+     - DHT11, DHT22
+   * - CO2 Detection Sensor
+     - CO2 感測器
+     - MH-Z19
 
 |
 
