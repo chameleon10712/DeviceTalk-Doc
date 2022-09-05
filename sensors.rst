@@ -24,6 +24,10 @@ DHT11 Temperature and Humidity Sensor
   
   - Arduino library for DHT11, DHT22
 
+
+- `How to Set up the DHT11 Humidity Sensor on the Raspberry Pi <https://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-the-raspberry-pi/>`_
+
+
 |
 
 .. raw:: html
