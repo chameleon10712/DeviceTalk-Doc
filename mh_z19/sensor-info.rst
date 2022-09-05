@@ -72,7 +72,7 @@ Installation
 
 
 
-Use as python script.
+Use as python script
 
 .. code:: py
 
