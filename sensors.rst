@@ -13,9 +13,13 @@ DHT11 Temperature and Humidity Sensor
 
 .. raw:: html
 
-  <img src="https://www.freva.com/wp-content/uploads/2019/05/DHT11.webp" alt="" width="200" height="">
+  <img src="https://www.freva.com/wp-content/uploads/2019/05/DHT11.webp" alt="" width="100" height="">
 
+|
 
+.. raw:: html
+
+  <img src="https://www.freva.com/wp-content/uploads/2019/05/DHT11_bb.webp" alt="" width="600" height="">
 
 
 
