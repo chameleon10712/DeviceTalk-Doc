@@ -11,19 +11,21 @@ DeviceTalk Documentation
 |
 
 .. list-table:: Sensors
-   :widths: 25 25 50
+   :widths: 50 50 50 50
    :header-rows: 1
 
    * - Type
      - 
-     - Library
+     - Sensor
+     - 
    * - Temperature and Humidity Sensor
      - 溫濕度感測器
-     - DHT11, DHT22
-   * - CO2 Detection Sensor
+     - DHT11
+     - DHT22
+   * - Infrared carbon dioxide (CO2) sensor
      - CO2 感測器
      - MH-Z19
+     - T6603
 
+     
 |
-
-
