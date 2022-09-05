@@ -1,7 +1,10 @@
 mh_z19
-===========
+=============
 
-MH-Z19B Infrared Carbon Dioxide Monitor Sensor CO2 Detection Sensor Module (CO2 二氧化碳感測器)
+MH-Z19B 
+---------
+
+Infrared Carbon Dioxide Monitor Sensor CO2 Detection Sensor Module (CO2 二氧化碳感測器)
 
 - `Official User Manual <https://www.winsen-sensor.com/d/files/infrared-gas-sensor/mh-z19b-co2-ver1_0.pdf>`_
 
@@ -42,6 +45,7 @@ Sensor Spec
 
 
 Cabling (佈線)
+++++++++++++++++
 
 |
 
@@ -60,11 +64,23 @@ Connect RPi & mh-z19 as:
 
 |
 
+Installation
+
+.. code:: py
+
+  pip install mh_z19
+
+
+
+Use as python script.
+
 .. code:: py
 
   pi@raspberrypi:~/mh-z19/pypi $ sudo python -m mh_z19
   {'co2': 500}
 
+
+Import module and call read()
 
 .. code:: py
 
