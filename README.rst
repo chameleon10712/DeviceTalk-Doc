@@ -2,6 +2,7 @@ DeviceTalk Documentation
 ===========================
 
 
+- `DeviceTalk Source Code | GitHub <https://github.com/IoTtalk/DeviceTalk/tree/sersor-journal>`_
 - `IoTtalk - DeviceTalk Library file | GitHub <https://github.com/IoTtalk/DeviceTalk-Library-file>`_
 
   - Eric
