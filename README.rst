@@ -27,7 +27,10 @@ DeviceTalk Documentation
      - CO2 感測器
      - MH-Z19
      - T6603
-
+   * - I2C Oxygen Sensor
+     - 空氣品質感應器
+     - SEN0322
+     - 
      
 |
 
