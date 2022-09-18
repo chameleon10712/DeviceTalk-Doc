@@ -58,6 +58,15 @@ DeviceTalk
     
       - `DeviceTalk 資料庫說明 | HackMD  <https://hackmd.io/@Eric-Pwg/HJSaW_2Oc#DeviceTalk-%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%AA%E6%98%8E>`_
 
+|
+
+DeviceTalk Apps
+------------------
+
+.. raw:: html
+
+  <img src="https://i.imgur.com/3Ry5zvJ.png" alt="" width="800" height="">
+
 
 |
 
