@@ -1,6 +1,12 @@
 SEN0322
 ==========
 
+.. raw:: html
+
+  <img src="https://cdn2.botland.store/83418/oxygen-sensor-i2c-dfrobot-sen0322.jpg" alt="" width="300" height="">
+
+|
+
 .. code::
 
   Detection of Gas: oxygen
