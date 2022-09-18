@@ -35,6 +35,24 @@ DeviceTalk
 
       - FileView
       - UploadSetupView
+
+  - my_admin
+  
+    - views.py
+    
+      - LanguageView
+      - BasicFileView
+      - IndexView
+
+  - api
+  
+    - views.py
+    
+      - LibraryManagerView
+      - ListFunctionManagerView
+      - NewFunctionManagerView
+      - SingleFunctionManagerView
+      - DeviceManagerView
       
    
 
