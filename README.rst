@@ -56,7 +56,7 @@ DeviceTalk
       
     - models.py
     
-      - `DeviceTalk 資料庫說明  <https://hackmd.io/@Eric-Pwg/HJSaW_2Oc#DeviceTalk-%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%AA%E6%98%8E>`_
+      - `DeviceTalk 資料庫說明 | HackMD  <https://hackmd.io/@Eric-Pwg/HJSaW_2Oc#DeviceTalk-%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%AA%E6%98%8E>`_
 
 
 |
