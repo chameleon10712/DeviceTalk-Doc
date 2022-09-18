@@ -23,7 +23,6 @@ DeviceTalk
     
   - xtalk_account
  
-    - IoTtalk 登入驗證
     - views.py
     
       - AuthRedirectionView
