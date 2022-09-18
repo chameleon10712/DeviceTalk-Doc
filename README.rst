@@ -61,6 +61,13 @@ DeviceTalk
 
 |
 
+DB Schema
+------------
+
+.. image:: https://i.imgur.com/u7SKO36.png
+
+|
+
 Sensors
 ---------
 
