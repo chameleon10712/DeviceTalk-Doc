@@ -65,7 +65,7 @@ DeviceTalk Apps
 
 .. raw:: html
 
-  <img src="https://i.imgur.com/3Ry5zvJ.png" alt="" width="800" height="">
+  <img src="https://i.imgur.com/dkW2FVA.png" alt="" width="800" height="">
 
 
 |
