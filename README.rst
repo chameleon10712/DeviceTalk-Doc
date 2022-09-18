@@ -1,7 +1,7 @@
 DeviceTalk Documentation
 ===========================
 
-
+- `DeviceTalk User Manual | HackMD <https://hackmd.io/@Eric-Pwg/SJWlETzj5/https%3A%2F%2Fhackmd.io%2F%40Eric-Pwg%2FB1W18mViq>`_
 - `DeviceTalk Source Code | GitHub <https://github.com/IoTtalk/DeviceTalk/tree/sersor-journal>`_
 - `IoTtalk - DeviceTalk Library file | GitHub <https://github.com/IoTtalk/DeviceTalk-Library-file>`_
 
