@@ -8,6 +8,8 @@ DeviceTalk Documentation
   - Eric
   - `DeviceTalk Libray File 檔案結構 | HackMD <https://hackmd.io/@Eric-Pwg/SJWlETzj5/https%3A%2F%2Fhackmd.io%2F%40Eric-Pwg%2FB15oVAaO9>`_
 
+- `DeviceTalk Demo Video | HackMD <https://hackmd.io/@Eric-Pwg/SJWlETzj5/https%3A%2F%2Fhackmd.io%2F%40Eric-Pwg%2FHkRRh7Vs9>`_
+
 |
 
 Sensors
@@ -45,7 +47,6 @@ Plantbox
 - dht11
 - mhz_19
 - sen0322
-
 
 |
 
