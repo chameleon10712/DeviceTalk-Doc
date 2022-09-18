@@ -59,7 +59,10 @@ DeviceTalk
 
 |
 
-.. list-table:: Sensors
+Sensors
+---------
+
+.. list-table:: List
    :widths: 50 50 50 50
    :header-rows: 1
 
