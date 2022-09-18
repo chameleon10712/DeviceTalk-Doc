@@ -10,6 +10,45 @@ DeviceTalk Documentation
 
 |
 
+Sensors
+---------
+
+.. list-table:: List
+   :widths: 50 50 50 50
+   :header-rows: 1
+
+   * - Type
+     - 
+     - Sensor
+     - 
+   * - Temperature and Humidity Sensor
+     - 溫濕度感測器
+     - DHT11
+     - DHT22
+   * - Infrared carbon dioxide (CO2) sensor
+     - CO2 感測器
+     - MH-Z19
+     - T6603
+   * - I2C Oxygen Sensor
+     - 空氣品質感應器
+     - SEN0322
+     - 
+     
+|
+
+
+Demo
+------------
+
+Plantbox
+
+- dht11
+- mhz_19
+- sen0322
+
+
+|
+
 DeviceTalk
 -------------
 
@@ -77,31 +116,6 @@ DB Schema
 
 |
 
-Sensors
----------
-
-.. list-table:: List
-   :widths: 50 50 50 50
-   :header-rows: 1
-
-   * - Type
-     - 
-     - Sensor
-     - 
-   * - Temperature and Humidity Sensor
-     - 溫濕度感測器
-     - DHT11
-     - DHT22
-   * - Infrared carbon dioxide (CO2) sensor
-     - CO2 感測器
-     - MH-Z19
-     - T6603
-   * - I2C Oxygen Sensor
-     - 空氣品質感應器
-     - SEN0322
-     - 
-     
-|
 
 
 
