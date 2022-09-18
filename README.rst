@@ -28,7 +28,14 @@ DeviceTalk
       - AuthRedirectionView
       - LogoutView
       - AuthCallbackView
-    
+   
+  - file_handle
+
+    - views.py
+
+      - FileView
+      - UploadSetupView
+      
    
 
 
