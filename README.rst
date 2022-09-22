@@ -100,8 +100,8 @@ DeviceTalk
 
 |
 
-Django Data Flow
-------------------
+Django Data Flow Diagram
+--------------------------
 
 .. image:: https://i.stack.imgur.com/r91Zn.png
 
