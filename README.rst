@@ -100,6 +100,13 @@ DeviceTalk
 
 |
 
+Django Data Flow
+------------------
+
+.. image:: https://i.stack.imgur.com/r91Zn.png
+
+|
+
 DeviceTalk Apps
 ------------------
 
