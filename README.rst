@@ -127,5 +127,9 @@ DB Schema
 Docker Architecture
 ---------------------
 
+.. image:: https://mmorejon.io/images/blog/django-diagram/docker-django-wsgi-production.png
+
+|
+
 .. image:: https://docs.docker.com/engine/images/architecture.svg
 
