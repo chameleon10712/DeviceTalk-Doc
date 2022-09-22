@@ -124,6 +124,8 @@ DB Schema
 
 |
 
+Docker Architecture
+---------------------
 
-
+.. image:: https://docs.docker.com/engine/images/architecture.svg
 
