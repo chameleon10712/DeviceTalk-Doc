@@ -98,10 +98,23 @@ DeviceTalk
     
       - `DeviceTalk 資料庫說明 | HackMD  <https://hackmd.io/@Eric-Pwg/HJSaW_2Oc#DeviceTalk-%E8%B3%87%E6%96%99%E5%BA%AB%E8%AA%AA%E6%98%8E>`_
 
+
+|
+
+Django Structure
+--------------------
+
+.. image:: https://i.pinimg.com/736x/2c/a1/3e/2ca13e4a8ecf54756e8cb4cb6ac390c5.jpg
+
+
 |
 
 Django Data Flow Diagram
 --------------------------
+
+.. image:: https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction/basic-django.png
+
+|
 
 .. image:: https://i.stack.imgur.com/r91Zn.png
 
