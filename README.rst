@@ -114,6 +114,16 @@ DeviceTalk Apps
 
   <img src="https://i.imgur.com/dkW2FVA.png" alt="" width="800" height="">
 
+|
+
+DeviceTalk Views
+------------------
+
+.. raw:: html
+
+  <img src="https://i.imgur.com/s0JuJCx.png" alt="" width="800" height="">
+
+
 
 |
 
