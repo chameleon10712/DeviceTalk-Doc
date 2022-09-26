@@ -27,7 +27,7 @@ Sensors
      - 溫濕度感測器
      - DHT11
      - DHT22
-   * - Infrared carbon dioxide (CO2) sensor
+   * - Infrared Carbon Dioxide (CO2) Sensor
      - CO2 感測器
      - MH-Z19
      - T6603
@@ -101,6 +101,38 @@ DeviceTalk
 
 |
 
+
+
+DeviceTalk Apps
+------------------
+
+.. raw:: html
+
+  <img src="https://i.imgur.com/dkW2FVA.png" alt="" width="800" height="">
+
+|
+
+
+DeviceTalk Views
+------------------
+
+.. raw:: html
+
+  <img src="https://i.imgur.com/s0JuJCx.png" alt="" width="800" height="">
+
+
+
+|
+
+DB Schema
+------------
+
+.. image:: https://i.imgur.com/u7SKO36.png
+
+|
+
+
+
 Django Structure
 --------------------
 
@@ -118,32 +150,6 @@ Django Data Flow Diagram
 
 .. image:: https://i.stack.imgur.com/r91Zn.png
 
-|
-
-DeviceTalk Apps
-------------------
-
-.. raw:: html
-
-  <img src="https://i.imgur.com/dkW2FVA.png" alt="" width="800" height="">
-
-|
-
-DeviceTalk Views
-------------------
-
-.. raw:: html
-
-  <img src="https://i.imgur.com/s0JuJCx.png" alt="" width="800" height="">
-
-
-
-|
-
-DB Schema
-------------
-
-.. image:: https://i.imgur.com/u7SKO36.png
 
 |
 
