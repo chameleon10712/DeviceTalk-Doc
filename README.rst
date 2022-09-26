@@ -121,6 +121,21 @@ DeviceTalk Views
   <img src="https://i.imgur.com/s0JuJCx.png" alt="" width="800" height="">
 
 
+|
+
+devicetalk / MainPageView
++++++++++++++++++++++++++++
+
+.. image:: https://i.imgur.com/Cz1xfpB.png
+
+|
+
+
+my_admin / IndexView
+++++++++++++++++++++++
+
+.. image:: https://i.imgur.com/KQ5CSl6.png
+
 
 |
 
