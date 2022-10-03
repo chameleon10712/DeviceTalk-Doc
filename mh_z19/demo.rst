@@ -36,6 +36,11 @@ Cabling
 
 |
 
+IoTtalk Setting
+-----------------
+
+|
+
 .. image:: https://i.imgur.com/N49nk13.png
 
 |
