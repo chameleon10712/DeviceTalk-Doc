@@ -1,7 +1,6 @@
 Raspberry Pi 4
 =====================
 
-
 Require
 
 - Raspberry Pi 4 board
