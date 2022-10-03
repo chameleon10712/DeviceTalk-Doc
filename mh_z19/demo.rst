@@ -6,7 +6,7 @@ Requirement
 
 - OS
   
-  - Raspberry Pi OS
+  - `Raspberry Pi OS Installation <https://www.youtube.com/watch?v=y45hsd2AOpw>`_
   
 - Python Library
 
