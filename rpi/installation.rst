@@ -41,6 +41,12 @@ Downloading and Installing Raspberry Pi OS
 
 
 
+|
 
+
+Reference
+-----------
+
+- `How to Set Up a Raspberry Pi for the First Time | Blog <https://www.tomshardware.com/how-to/set-up-raspberry-pi>`_
 
 
