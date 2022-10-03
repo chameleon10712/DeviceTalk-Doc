@@ -26,7 +26,11 @@ Downloading and Installing Raspberry Pi OS
 2.  Download and install the official Raspberry Pi Imager.
 3.  Click Choose OS.
 
-.. image:: https://cdn.mos.cms.futurecdn.net/h3QN3c9mD3T3JgynoK3xob-1024-80.png.webp
+
+.. raw:: html
+
+  <img src="https://cdn.mos.cms.futurecdn.net/h3QN3c9mD3T3JgynoK3xob-1024-80.png.webp" alt="" width="600" height="">
+
 
 |
 
