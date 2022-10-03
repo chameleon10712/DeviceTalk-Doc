@@ -36,8 +36,14 @@ Downloading and Installing Raspberry Pi OS
 
 4. Select Raspberry Pi OS (32-bit) from the OS menu.
 
+   Click Choose storage and pick the SD card you’re using. 
 
 
+5. Click the settings button or hit CTRL + SHIFT + X to enter settings.
+
+|
+
+[WIP]
 
 
 
