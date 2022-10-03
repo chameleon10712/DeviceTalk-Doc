@@ -4,6 +4,17 @@ Demo
 Requirement
 -------------
 
+Hardware
+
+- Raspberry Pi 4
+- Infrared Carbon Dioxide (CO2) Sensor ``mh_z19``
+
+
+|
+
+
+Software
+
 - OS
   
   - `Raspberry Pi OS Installation <../rpi/installation.rst>`_
