@@ -45,6 +45,19 @@ Downloading and Installing Raspberry Pi OS
 
 [WIP]
 
+|
+
+Update Your Raspberry Pi Software
+++++++++++++++++++++++++++++++++++++
+
+.. code:: sh
+
+  sudo apt-get update
+  sudo apt-get upgrade
+  
+  pip3 install RPI.GPIO
+
+
 
 
 |
