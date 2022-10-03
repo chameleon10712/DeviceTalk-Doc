@@ -52,6 +52,23 @@ Cabling
 IoTtalk Setting
 -----------------
 
+1. Create IoTtalk Project
+
+2. Model > mh_z19 > select all IDFs, ODFs
+
+3. Network application connections
+
+- CO2-I connect to CO2-O
+- Temp-I connect to Temp-O
+
+
+
+
+
+
+
+
+
 |
 
 .. image:: https://i.imgur.com/N49nk13.png
