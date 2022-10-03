@@ -67,4 +67,4 @@ Reference
 
 - `How to Set Up a Raspberry Pi for the First Time | Blog <https://www.tomshardware.com/how-to/set-up-raspberry-pi>`_
 
-
+- `How To Install & Set Up Raspberry Pi OS - Pi4 Pi3 Pi2 | YouTube <https://www.youtube.com/watch?v=y45hsd2AOpw>`_
