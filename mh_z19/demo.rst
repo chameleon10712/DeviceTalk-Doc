@@ -56,16 +56,28 @@ IoTtalk Setting
 
 2. Model > mh_z19 > select all IDFs, ODFs
 
+.. image:: https://i.imgur.com/Ejz81J2.png
+
+|
+
+
 3. Network application connections
 
-- CO2-I connect to CO2-O
-- Temp-I connect to Temp-O
+- ``CO2-I`` connects to ``CO2-O``
+- ``Temp-I`` connects to ``Temp-O``
+
+.. image:: https://i.imgur.com/ADSHBAX.png
 
 
+|
 
 
+4. Click ``DeviceModel`` setting and click ``Save and Create SA Code`` to enter DeviceTalk main page
+
+.. image:: https://i.imgur.com/O77JOqT.png
 
 
+|
 
 
 
