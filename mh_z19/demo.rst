@@ -18,7 +18,9 @@ Software
 - OS
   
   - `Raspberry Pi OS Installation <../rpi/installation.rst>`_
-  
+  - basic configuration
+
+
 - Python Library
 
   - ``mh_z19``
