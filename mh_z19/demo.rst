@@ -72,7 +72,7 @@ IoTtalk Setting
 |
 
 
-4. Click ``DeviceModel`` setting and click ``Save and Create SA Code`` to enter DeviceTalk main page
+4. Click ``DeviceModel`` setting and click ``Save and Create SA Code`` to enter ``DeviceTalk Main Page``
 
 .. image:: https://i.imgur.com/O77JOqT.png
 
@@ -80,6 +80,17 @@ IoTtalk Setting
 |
 
 
+5. ``DeviceTalk Main Page``
+
+.. raw:: html
+
+  <img src="https://i.imgur.com/p2bz5gw.png" alt="" width="700" height="">
+
+
+|
+
+
+Demo
 
 |
 
